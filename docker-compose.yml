@@ -1,0 +1,6 @@
+version: '3'
+services:
+  ipfs:
+    build: ipfs
+    image: ipfs
+    container_name: ipfs
